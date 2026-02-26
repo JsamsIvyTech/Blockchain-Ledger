@@ -1,4 +1,4 @@
-# tZERO Practice: Tokenized Asset Ledger API
+# Blockchain Practice: Tokenized Asset Ledger API
 
 A high-performance, API-first backend service built to simulate the lifecycle of digital assets, focusing on secure settlement and immutable transaction logging.
 
@@ -21,5 +21,5 @@ This project demonstrates the core engineering principles required for regulated
 ### Using Docker (Preferred)
 To run the containerized service:
 ```bash
-docker build -t tzero-ledger .
-docker run -p 8000:8000 tzero-ledger
+docker build -t blockchain-ledger .
+docker run -p 8000:8000 blockchain-ledger
