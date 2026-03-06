@@ -5,7 +5,7 @@ A high-performance, API-first backend service built to simulate the lifecycle of
 ## 🚀 Overview
 This project demonstrates the core engineering principles required for regulated digital asset infrastructure. It provides a RESTful interface for token issuance and peer-to-peer asset settlement.
 
-### Key Fintech Features
+### Key Features
 * **Atomic Settlement:** Logic ensuring balances are updated simultaneously to prevent double-spending.
 * **Immutable Ledger:** Every trade is hashed using SHA-256 to create a "tamper-evident" audit trail, mimicking blockchain architecture.
 * **API-First Design:** Built with FastAPI to provide automatic OpenAPI/Swagger documentation for institutional integrations.
